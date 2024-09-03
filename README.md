@@ -13,14 +13,14 @@
     1. Inferência
     2. Literal Types
     3. Declaration Merge
-    4. any, never, unknown
-4. Mitos da comunidade
+    4. any, **never**, unknown
+4. Generics
+    1. O que são generics?
+    2. Como trabalhar com generics?
+5. Mitos da comunidade
     1. Nunca use enum?!
     2. Nunca use namespace?!
     3. Nunca anote o retorno de função?!
-5. Generics
-    1. O que são generics?
-    2. Como trabalhar com generics?
 6. Conditional Types
     1. Desmembrando um conditional types
     2. `extends` para conditional types
